@@ -8,7 +8,4 @@ public class People {
 
     private String address;
 
-
-
-
 }
